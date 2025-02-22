@@ -1,0 +1,1 @@
+Ensure there is a space between the calculation components within the `calc()` function. Correct example: `width: calc(100% - 20px);` Incorrect example: `width: calc(100%-20px);` or `width:calc(100% -20px);` Always add spaces after the unit if used, such as `%`, `px`, `em`, etc. This ensures the CSS parser correctly interprets the calculation.

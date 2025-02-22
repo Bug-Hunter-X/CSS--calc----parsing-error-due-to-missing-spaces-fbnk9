@@ -1,0 +1,2 @@
+# CSS `calc()` Space Error
+This repository demonstrates a subtle but important error that can occur when using the CSS `calc()` function.  Incorrect spacing between calculation components can lead to unexpected results or parsing failures.  The `bug.css` file shows the erroneous code, while `bugSolution.css` provides the corrected version.
